@@ -10,3 +10,6 @@ List View:
 
 Detailed View
 ![Detail](https://github.com/pavan-kumar-arepu/Landmarks/assets/13812858/09502540-d239-4af1-b03c-5f5498478aa2)
+
+
+Credit to  https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation as I learnt it from them
