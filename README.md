@@ -4,8 +4,7 @@ Landmark about User
 A small POC on List and Details with SwiftUI
 
 List View:
-![List_Row](https://github.com/pavan-kumar-arepu/Landmarks/assets/13812858/e1034131-a3d2-4e1f-99dd-afe2390d9047)
-
+![List_Row](https://github.com/pavan-kumar-arepu/Landmarks/assets/13812858/8846a3e1-fc30-4001-a91d-ec3d08318fa0)
 
 
 Detailed View
